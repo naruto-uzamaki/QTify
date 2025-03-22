@@ -1,0 +1,22 @@
+.faqAccordion{
+    margin-inline: 100px;
+    .accordionSummary {
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: black;
+        color: white;
+    }
+    .accordionDetails{
+        background-color: white;
+        color: black;
+        border-radius: 0px 0px 10px 10px;
+    }
+}
+
+.accordionWrapper {
+    margin-block: 20px;
+}
+
+.expandIcon {
+    color: #34C94B;
+}
